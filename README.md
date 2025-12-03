@@ -1,6 +1,6 @@
 ## Hello I am Stefanos Kypritidis 👋
 
-- 🎓 BSc **Management Science and Technology** majoring in software engineering and data science — Athens University of Economics and Business
+- 🎓 BSc **Management Science and Technology** majoring in software engineering and data science - Athens University of Economics and Business
   [*Academic Excellence - top 2% of department*]  
 - 🎓 MSc **Big Data Management & Analytics** (Erasmus Mundus, ULB 🇧🇪 · UPC 🇪🇸 · CentraleSupélec 🇫🇷) [Scholar]
 
@@ -11,7 +11,7 @@
 
 ### Other Achievements
 - Contributor to the [networkx/nx-guides](https://github.com/networkx/nx-guides) open-source project with an [exploratory network analysis](https://github.com/networkx/nx-guides/blob/main/content/exploratory_notebooks/facebook_notebook.md).
-- In the Master’s Course Big Data Management, earned a distinction with honors (Matrícula de Honor) with a grade 9.6/10
+- In the Master's Course Big Data Management, earned a distinction with honors (Matrícula de Honor) with a grade 9.6/10
 
 
 
