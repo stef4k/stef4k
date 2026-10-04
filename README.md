@@ -1,8 +1,10 @@
 ## Hello I am Stefanos Kypritidis 👋
 
-- 🎓 BSc **Management Science and Technology** majoring in software engineering and data science - Athens University of Economics and Business
-  [*Academic Excellence - top 2% of department*]  
-- 🎓 MSc **Big Data Management & Analytics** (Erasmus Mundus, ULB 🇧🇪 · UPC 🇪🇸 · CentraleSupélec 🇫🇷) [Scholar]
+
+| Degree | Institution | Distinction |
+|---|---|---|
+| 🎓 **MSc** Big Data Management & Analytics<br><sub>Specialization: Decision Support & Data Analytics</sub> | Erasmus Mundus (ULB · UPC · CentraleSupélec) | Highest distinction · Best Performance Award |
+| 🎓 **BSc** Management Science & Technology<br><sub>Major: Software Engineering & Data Science</sub> | Athens University of Economics and Business | Ranked 3rd of 166 graduates (top 1.81%) |
 
 ### 🛠️ What you’ll find here
 - University projects of bachelor's and master's
