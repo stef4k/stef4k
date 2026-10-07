@@ -7,9 +7,11 @@
 | 🎓 **BSc** Management Science & Technology<br><sub>Major: Software Engineering & Data Science</sub> | Athens University of Economics and Business | Ranked 3rd of 166 graduates (top 1.81%) |
 
 ### 🛠️ What you’ll find here
+- Master's thesis
+- Bachelor's thesis
 - University projects of bachelor's and master's
 - Personal interest data analysis projects
-- Bachelor's thesis
+
 
 ### Other Achievements
 - Contributor to the [networkx/nx-guides](https://github.com/networkx/nx-guides) open-source project with an [exploratory network analysis](https://github.com/networkx/nx-guides/blob/main/content/exploratory_notebooks/facebook_notebook.md).
