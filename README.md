@@ -16,7 +16,7 @@
 ### Other Achievements
 - Contributor to the [networkx/nx-guides](https://github.com/networkx/nx-guides) open-source project with an [exploratory network analysis](https://github.com/networkx/nx-guides/blob/main/content/exploratory_notebooks/facebook_notebook.md).
 - In the Master's Course Big Data Management, earned a distinction with honors (Matrícula de Honor) with a grade 9.6/10
-
+- Creator of the platform [HoopSpot](https://hoopspot-athens.vercel.app/) that helps youth basketball coaches in Athens find opponents for friendly games: one coach posts an open court slot (date, time, age group, location), another confirms it, and both get each other's contact details.
 
 
 <!--
